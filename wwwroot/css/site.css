@@ -1,0 +1,122 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@font-face{
+  font-family: 'StardewVFont';
+  src: url('../fonts/Stardew-Valley-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.tituloStardew{
+  font-family: 'StardewVFont', sans-serif;
+  font-size: 4.5rem;
+  text-transform: uppercase;
+}
+
+.background{
+  background-image: url('../img/fondoSV.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.crops-background{
+  background-image: url('../img/fondoparacultivos.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  z-index: 1;
+}
+
+.board{
+  background-image: url('../img/stardew_board.png');
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  max-width: 38rem;
+  margin: 0 auto;
+  margin-top: 2rem;
+  padding: 2.5rem;
+}
+
+.ts-control,
+.ts-control input{
+  border: 1.75px solid rgba(127, 50, 6) !important;
+  border-radius: 8px !important;
+  color: rgba(89, 32, 7) !important;
+}
+
+.ts-dropdown{
+  border: 1.75px solid rgba(127, 50, 6) !important;
+  border-radius: 8px !important;
+  color: rgba(89, 32, 7) !important;
+}
+
+.inputt{
+  border: 1.75px solid rgba(127, 50, 6) !important;
+  border-radius: 8px !important;
+  color: rgba(89, 32, 7) !important;
+  width: 5rem !important;
+}
+
+.btton{
+  justify-content: center !important;
+  display: inline-flex !important;
+
+  background-color: rgb(236, 187, 95) !important;
+  border: 1.75px solid rgba(127, 50, 6) !important;
+  border-radius: 8px !important;
+  color: rgba(89, 32, 7) !important;
+  width: 4.25rem !important;
+  text-decoration: none !important;
+}
+
+.btton:hover{
+  background-color: rgb(218, 161, 76) !important;
+  border: 1.75px solid rgb(100, 40, 5) !important;
+  color: rgb(70, 18, 5) !important;
+  transition: background-color 0.3s ease;
+}
+
+.glue{
+  display: flex !important;
+  /*flex-direction: row !important;*/
+  flex-wrap: nowrap !important;
+  align-items: center !important;
+  gap: 1.33rem;
+}
+
+.glue .ts-wrapper{
+  width: 18.75rem !important;
+  margin-bottom: 0 !important;
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
