@@ -27,6 +27,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsY3VsYWRvcmEtU2VlZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/SVprueba/Pages/Calculadora-Venta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsY3VsYWRvcmEtVmVudGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/SVprueba/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
