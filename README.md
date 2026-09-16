@@ -1,2 +1,1 @@
-Una calculadora hecha por fans para fans de Stardew Valley para calcular la compra total de semillas, 
-el total de la venta de los cultivos procesados y no procesados; entre otros agregados que llegaran con el tiempo.
+Una calculadora hecha por fans para fans de Stardew Valley para calcular la compra total de semillas, el total de la venta de los cultivos procesados y no procesados; entre otros agregados que llegaran con el tiempo.

@@ -1,9 +1,9 @@
 [
-    {"id": 1, "name": "Chirivia", "cost": 20, "sell": 35, "sellSS": 43, "sellGS": 52, "sellIS": 70, "time": 5, "image": "https://stardewvalleywiki.com/mediawiki/images/d/db/Parsnip.png"},
-    {"id": 2, "name": "Patata", "cost": 50, "sell": 80, "sellSS": 100, "sellGS": 120, "sellIS": 160, "time": 6, "image": "https://stardewvalleywiki.com/mediawiki/images/c/c2/Potato.png"},
-    {"id": 3, "name":"Judia Verde", "cost": 60, "sell": 40, "sellSS": 50, "sellGS": 60, "sellIS": 80, "time": 10, "image": "https://stardewvalleywiki.com/mediawiki/images/5/5c/Green_Bean.png"},
-    {"id": 4, "name":"Zanahoria", "cost": 0, "sell": 35, "sellSS": 43, "sellGS": 52, "sellIS": 70, "time": 3, "image": "https://stardewvalleywiki.com/mediawiki/images/c/c3/Carrot.png"},
-    {"id": 5, "name":"Fresa", "cost": 100, "sell": 120, "sellSS": 150, "sellGS": 180, "sellIS": 240, "time": 8, "image": "https://stardewvalleywiki.com/mediawiki/images/6/6d/Strawberry.png"},
-    {"id": 6, "name": "Coliflor", "cost": 40, "sell": 175, "sellSS": 218, "sellGS": 262, "sellIS": 350, "time": 12, "image": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Cauliflower.png"},
-    {"id": 7, "name": "Col rizada", "cost": 35, "sell": 110, "sellSS": 137, "sellGS": 165, "sellIS": 220, "time": 6, "image": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Kale.png"}
+    {"id": 1, "name": "Chirivia", "deshidratar": false, "cost": 20, "sell": 35, "sellSS": 43, "sellGS": 52, "sellIS": 70, "time": 5, "image": "https://stardewvalleywiki.com/mediawiki/images/d/db/Parsnip.png"},
+    {"id": 2, "name": "Patata", "deshidratar": false, "cost": 50, "sell": 80, "sellSS": 100, "sellGS": 120, "sellIS": 160, "time": 6, "image": "https://stardewvalleywiki.com/mediawiki/images/c/c2/Potato.png"},
+    {"id": 3, "name":"Judia Verde", "deshidratar": false, "cost": 60, "sell": 40, "sellSS": 50, "sellGS": 60, "sellIS": 80, "time": 10, "image": "https://stardewvalleywiki.com/mediawiki/images/5/5c/Green_Bean.png"},
+    {"id": 4, "name":"Zanahoria", "deshidratar": false, "cost": 0, "sell": 35, "sellSS": 43, "sellGS": 52, "sellIS": 70, "time": 3, "image": "https://stardewvalleywiki.com/mediawiki/images/c/c3/Carrot.png"},
+    {"id": 5, "name":"Fresa", "deshidratar": true, "cost": 100, "sell": 120, "sellSS": 150, "sellGS": 180, "sellIS": 240, "time": 8, "image": "https://stardewvalleywiki.com/mediawiki/images/6/6d/Strawberry.png"},
+    {"id": 6, "name": "Coliflor", "deshidratar": false, "cost": 40, "sell": 175, "sellSS": 218, "sellGS": 262, "sellIS": 350, "time": 12, "image": "https://stardewvalleywiki.com/mediawiki/images/a/aa/Cauliflower.png"},
+    {"id": 7, "name": "Col rizada", "deshidratar": false, "cost": 35, "sell": 110, "sellSS": 137, "sellGS": 165, "sellIS": 220, "time": 6, "image": "https://stardewvalleywiki.com/mediawiki/images/d/d1/Kale.png"}
 ]

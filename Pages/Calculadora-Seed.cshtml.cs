@@ -10,6 +10,8 @@ public class Cultivo
 
     public string name { get; set; } = string.Empty;
 
+    public bool deshidratar { get; set; } = false;  
+
     public int cost { get; set; } = 0;
 
     public int sell { get; set; } = 0;

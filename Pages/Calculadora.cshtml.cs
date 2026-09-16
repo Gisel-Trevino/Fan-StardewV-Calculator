@@ -14,4 +14,9 @@ public class Calculadora
             return cantidadSemillas * props.cost;            
         }
     }
+
+    public int GananciaTotal (Cultivo props, int cantidadCultivos)
+    {
+        return 0;
+    }
 }
